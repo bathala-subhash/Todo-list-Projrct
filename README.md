@@ -21,5 +21,5 @@ This is a clean, responsive, and stylish Todo List web application built using *
 ## 🚀 How to Use
 
 1. **Clone the repository:**
-   ```bash
+   
    git clone https://github.com/bathala-subhash/Todo-list-Projrct.git
